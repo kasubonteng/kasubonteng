@@ -43,8 +43,8 @@ I am a Computer Science Student at KNUST, Ghana
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasubonteng&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasubonteng&theme=neon-dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasubonteng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasubonteng&layout=compact&theme=vision-friendly-dark)
 
 
